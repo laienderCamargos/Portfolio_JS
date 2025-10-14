@@ -48,12 +48,12 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "name": "Curso criação de uma Pokedex na DIO",
       "url": "https://github.com/laienderCamargos/Pokedex_JS",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
+      "name": "Curso criação de uma página de portfolio na DIO",
       "url": "https://github.com/laienderCamargos/Pokedex_JS",
       "github": true
     }
