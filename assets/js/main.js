@@ -8,7 +8,7 @@ function updateProfileInfo(profileData) {
             photo.src = profileData.photo;
         }
         photo.alt = profileData.name || '';
-        console.debug('Updated photo element:', photo);
+        // console.debug('Updated photo element:', photo);
     } else {
         console.warn('Profile photo element not found (id=profile.photo)');
     }
