@@ -57,14 +57,19 @@
   ],
   "professionalExperience": [
     {
-      "name": "Deselvolvedor Delphi / Realtec",
+      "name": "Desenvolvedor Delphi / Realtec",
       "period": "2020 - até o momento",
-      "description": "Primeiro esperiencia profissional."
+      "description": "Esta foi a minha primeira experiência profissional, um momento de grande aprendizado e crescimento. Tive a oportunidade de aplicar conhecimentos teóricos, desenvolver novas habilidades e compreender melhor o funcionamento do ambiente corporativo."
     },
     {
-      "name": "Deselvolvedor Java / Realtec",
+      "name": "JavaScript, Node.js e outras linguagens / Realtec",
+      "period": "2024 - até o momento",
+      "description": "Dedico-me ao estudo de JavaScript, Node.js e outras linguagens focadas no desenvolvimento de aplicativos mobile, buscando constantemente aprimorar minhas habilidades e acompanhar as novas tendências do setor."
+    },
+    {
+      "name": "Desenvolvedor Java / Realtec",
       "period": "2019 - 2020",
-      "description": "Atuação em projeto durante a gradução."
+      "description": "Atuei em um projeto durante a graduação, aplicando na prática os conhecimentos adquiridos em sala de aula. Essa experiência contribuiu para o desenvolvimento de habilidades técnicas, trabalho em equipe e resolução de problemas em um ambiente dinâmico e colaborativo."
     }
   ]
 }
